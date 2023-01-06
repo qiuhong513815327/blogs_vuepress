@@ -18,6 +18,11 @@ module.exports = {
           collapsable: true,
           children: ["git/base.md", "git/gitCommand.md"]
         },
+        {
+          title: "Bug日常记录",
+          collapsable: true,
+          children: ["bugRecord/mobileBug.md"]
+        },
       ]
     },
     nav: [

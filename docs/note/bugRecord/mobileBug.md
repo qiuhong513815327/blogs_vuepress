@@ -1,9 +1,9 @@
 # 移动端BUG记录
 
-## 安卓的line-height有兼容问题，显示不出来
+## 安卓的line-height兼容问题
 <font color=#67C23A>可以用flex布局或者transform：translate偏移配合定位来实现</font>
 
-## 移动端的10px以下有显示问题
+## 移动端的10px以下显示问题
 <font color=#67C23A>字体像素尽量用12px</font>
 
 ## vant的list组件的finish状态改变会触发loading事件

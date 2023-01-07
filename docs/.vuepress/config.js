@@ -21,7 +21,7 @@ module.exports = {
         {
           title: "Bug日常记录",
           collapsable: true,
-          children: ["bugRecord/mobileBug.md"]
+          children: ["bugRecord/mobileBug.md", "bugRecord/elementUIbug.md"]
         },
       ]
     },

@@ -23,6 +23,11 @@ module.exports = {
           collapsable: true,
           children: ["bugRecord/mobileBug.md", "bugRecord/elementUIbug.md"]
         },
+        {
+          title: "vueCli项目的创建步骤",
+          collapsable: true,
+          children: ["createVueCli/vueCli4.0.5.md"]
+        },
       ]
     },
     nav: [

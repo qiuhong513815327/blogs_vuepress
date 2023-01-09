@@ -28,6 +28,11 @@ module.exports = {
           collapsable: true,
           children: ["createVueCli/vueCli4.0.5.md"]
         },
+        {
+          title: "markdown语法",
+          collapsable: true,
+          children: ["mdGrammar/handbook.md"]
+        },
       ]
     },
     nav: [
